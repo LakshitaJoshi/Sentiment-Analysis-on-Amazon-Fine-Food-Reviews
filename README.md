@@ -1,7 +1,5 @@
-# Sentiment-Analysis-on-Amazon-Fine-Food-Reviews
-Sentiment analysis on Amazon Fine Food Reviews using VADER and RoBERTa, with plans to fine-tune RoBERTa for improved results.
-
 # 📦 Sentiment Analysis on Amazon Fine Food Reviews
+Sentiment analysis on Amazon Fine Food Reviews using VADER and RoBERTa, with plans to fine-tune RoBERTa for improved results.
 
 This project performs sentiment analysis on the Amazon Fine Food Reviews dataset using both rule-based and transformer-based models. It currently compares **VADER** and **RoBERTa (pre-trained on Twitter data)** and plans to fine-tune RoBERTa in the next phase for domain-specific performance.
 
